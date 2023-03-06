@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superozzy
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything for begginers ,just to work on real life projects
 - 📫 How to reach me :  https://github.com/superozzy
                         
